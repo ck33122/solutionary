@@ -1,0 +1,43 @@
+---
+ColumnLimit: '0'
+IndentWidth: 2
+ContinuationIndentWidth: 2
+IndentWrappedFunctionNames: false
+MaxEmptyLinesToKeep: 2
+NamespaceIndentation: All
+SpaceAfterCStyleCast: true
+SpaceBeforeParens: ControlStatements
+Standard: Cpp11
+UseTab: Never
+AllowShortIfStatementsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: true
+AllowShortBlocksOnASingleLine: false
+PointerAlignment: Left
+BinPackArguments: false
+BinPackParameters: false
+AccessModifierOffset: -2
+AlwaysBreakTemplateDeclarations: true
+BreakBeforeInheritanceComma: true
+BreakBeforeTernaryOperators: true
+BreakConstructorInitializers: BeforeComma
+FixNamespaceComments: true
+AlignAfterOpenBracket: Align
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+ConstructorInitializerIndentWidth: 2
+BreakBeforeBraces: Attach
+#BreakBeforeBraces: Custom
+#BraceWrapping:
+#  SplitEmptyFunction: false
+#  SplitEmptyRecord: false
+#  SplitEmptyNamespace: false
+#  AfterClass: true
+#  AfterControlStatement: true
+#  AfterEnum: true
+#  AfterFunction: true
+#  AfterNamespace: true
+#  AfterStruct: true
+#  AfterUnion: true
+#  AfterExternBlock: true
+#  BeforeCatch: true
+#  BeforeElse: true
